@@ -1,2 +1,2 @@
-FROM quay.io/calico/node:v3.1.3
+FROM quay.io/coreos/etcd:v3.1.10
 MAINTAINER tomtoto
