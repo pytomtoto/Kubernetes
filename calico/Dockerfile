@@ -1,2 +1,2 @@
-FROM quay.io/calico/cni:v2.0.3
+FROM quay.io/calico/kube-controllers:v2.0.2
 MAINTAINER tomtoto
