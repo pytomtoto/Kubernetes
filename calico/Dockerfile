@@ -1,2 +1,2 @@
-FROM quay.io/calico/node:v3.0.4
+FROM quay.io/calico/cni:v2.0.3
 MAINTAINER tomtoto
